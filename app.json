@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "ExpenseTracker Pro",
+    "slug": "expensetracker-pro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.expensetracker.pro",
+      "permissions": ["POST_NOTIFICATIONS"]
+    },
+    "plugins": ["expo-notifications"]
+  }
+}
